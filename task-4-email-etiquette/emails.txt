@@ -1,4 +1,4 @@
-# EMAIL 1: Assignment Extension Request
+## EMAIL 1: Assignment Extension Request
 Subject: Request for Extension on Assignment Submission
 
 Respected Sir/Ma’am,
@@ -16,7 +16,7 @@ Aditi Roy
 Reg No- 25BAI10523  
 Branch- CSE (AIML)
 
-# EMAIL 2: Internship Request
+## EMAIL 2: Internship Request
 
 Subject: Application for Summer Internship Opportunity
 
