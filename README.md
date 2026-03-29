@@ -2,10 +2,10 @@
 Showcasing infographic design, professional portfolio setup, coding practice, email etiquette, and cybercrime awareness as part of CSE0001 coursework.
 
 ## Student Details
-Name: Aditi Roy 
-Reg No: 25BAI10523 
-Branch: CSE (AIML)
-Course: CSE0001 – Digital Literacy  
+- Name: Aditi Roy 
+- Reg No: 25BAI10523 
+- Branch: CSE (AIML)
+- Course: CSE0001 – Digital Literacy  
 
 ## Project Overview
 This repository contains my Digital Literacy Portfolio created as part of the CSE0001 course. The project focuses on developing essential digital skills such as online awareness, professional communication, coding practice, and cyber safety.
